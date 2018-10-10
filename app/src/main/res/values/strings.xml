@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Bhukhad-Orders</string>
+    <string name="sign_in">Sign In</string>
+    <string name="proudly_made_at_lnmiit">Proudly Made At LNMIIT</string>
+    <string name="slogan">Shop side App for shop keepers</string>
+    <string name="logo">logo</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="password">password</string>
+    <string name="unique_shop_number">Unique Shop Number</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="share">Share</string>
+    <string name="about_us">About Us</string>
+    <string name="settings">Settings</string>
+    <string name="others">Others</string>
+    <string name="purchases_and_bills">Purchases and Bills</string>
+    <string name="shop_cart">Shop Cart</string>
+</resources>
